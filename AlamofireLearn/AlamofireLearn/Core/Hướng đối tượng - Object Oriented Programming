@@ -1,0 +1,36 @@
+Hướng đối tượng - Object Oriented Programming
+
+Ưu điểm:
+1- Mô phỏng các đối tượng trong thực tế: Person, Animal, Device, Bank Account, Tivi......
+2- Mô phỏng quan hệ giữa Object - Properties
+3- Mô phỏng cách thức đọc ghi Property (getter vs setter)
+4- Mô phỏng quan hệ giữa các đối tượng: kế thừa cha con. Ở C++ có quan hệ bạn bè friend
+5- Trong kế thừa thì có 2 loại: đơn kế thừa (single inheritance) và đa kế thừa (multiple inheritance).
+C++ và Python là đa kế thừa.
+
+Một số đặc tính của OOP:
+1- Encapsulation
+2- Inheritance
+3- Polymorphism
+4- Data abstraction
+
+Nhược điểm của OOP:
+1- Khó hiểu với người mới học
+2- Gây chậm nếu cây kế thừa quá phực tạp
+3- Mất thời gian để thiết kế và refactor code
+
+
+Class khác gì với Object?
+1- Class là khuôn, hay mô tả chung về tập các đối tượng có chúng đặc điểm
+2- Object là đối tượng được tạo ra từ Class.
+3- Một Class có thể tạo ra nhiều Object
+
+Class định nghĩa thuộc tính (property) và phương thức chung (method)
+
+Tạm hiểu property là noun, method là verb ~ hành động. Tuy nhiện property cũng có thể sẽ được gán bởi một function
+
+Function khác method ở điểm nào?
+Method là function được gắn vào object, class
+
+Compostion
+Một class có một thuộc tính, thuộc tính này có kiểu một class khác.

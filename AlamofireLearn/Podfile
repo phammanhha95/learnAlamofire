@@ -1,0 +1,9 @@
+target 'AlamofireLearn' do
+	use_frameworks!
+  #pod 'NextLevel', '~> 0.15.0'
+	pod 'Alamofire', '~> 4.8.2'
+	pod 'Gloss', '~> 2.0'
+	pod 'SwiftyJSON', '~> 4.0'
+	pod 'SteviaLayout'
+	pod 'Kingfisher', '~> 5.0'
+end
